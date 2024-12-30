@@ -1,0 +1,3 @@
+[spdlog] [2024-12-29 00:56:20.859] [info] [42584] [main.cpp main:19]  Welcome to info spdlog
+[spdlog] [2024-12-29 00:56:20.859] [warning] [42584] [main.cpp main:20]  Welcome to warn spdlog
+[spdlog] [2024-12-29 00:56:20.859] [error] [42584] [main.cpp main:21]  Welcome to error spdlog

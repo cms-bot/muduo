@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -std=c++11 -fPIC -rdynamic CMakeFiles/test.dir/main.cpp.o CMakeFiles/test.dir/__/src/log/logger.cpp.o -o /home/yyds/cmsyyds/muduo/bin/test 
